@@ -3,27 +3,25 @@
 ## Objective
 The objective of this assignment is to provide hands-on experience with managing Virtual Machines (VMs) in both Azure and Google Cloud Platform (GCP). You will learn how to start, stop, and monitor the costs associated with running VMs on these cloud platforms.
 
-## IMPORTANT NOTE FOR AZURE: 
-You MAY not have permissions to start a VM within Azure because of a change either by Microsoft or Stony Brook. If you do not have permissions, or our unable to, that is fine. Please then just continue with the assignment with GCP. 
 
 ## Instructions
 
 ### 1. Start and Stop a Virtual Machine
 **GCP:**
 
+<img width="1426" alt="GCP_1" src="https://github.com/user-attachments/assets/02038062-1c50-4811-bb62-9cfbc6fc52c1">
 
+<img width="1413" alt="GCP_2" src="https://github.com/user-attachments/assets/cdb8024e-bc5c-441e-8651-3b61adce1435">
 
 ### 2. Monitor VM Costs
 - **GCP:**
-  - In the GCP Console, go to the Billing section and identify the cost incurred by your VM during its runtime.
 
-### 3. Compare and Reflect
-- Compare the costs of running a VM in Azure versus GCP. Consider factors such as the configuration used, the duration for which the VM was active, and any differences in cost visibility between the platforms.
-- Reflect on the ease of starting, stopping, and monitoring VMs on each platform. Which platform did you find more intuitive or user-friendly? Why?
+<img width="1406" alt="GCP_3" src="https://github.com/user-attachments/assets/ae349e54-b78e-4ad5-bb49-0d532f76adbe">
 
 
 ## Reflection
-- Both platforms were similar in some regards. GCP seemed to have a friendlier UI/UX.
+- Both platforms were similar in some regards. GCP seemed to have a friendlier UI/UX. It was very easy to start, stop, and delete the VMs. There was a slight lag on my computer that could be due to the fact that I have multiple programs currently running on my computer. The friendlier UI/UX I noticed from a GUI POV is the font and the coloring and sizing of the fonts and dashboard. From navigating both platforms they have their target audience in mind.
+- It was not possible to see the total cost incur on the GCP, it might be due to the small run time or perhaps you have to wait until EOD or EOW to get the fees incured. Or perhaps there are other delays when calculating cost of service.
 - Please note that I was unable to create a VM on Azure (no option to select 'size'). 
 
 <img width="1010" alt="Azure_Error" src="https://github.com/user-attachments/assets/d0df994e-2960-429f-bd36-4f6fdb5d7009">
