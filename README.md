@@ -21,6 +21,7 @@ The objective of this assignment is to provide hands-on experience with managing
 
 ## Reflection
 - Both platforms were similar in some regards. GCP seemed to have a friendlier UI/UX. It was very easy to start, stop, and delete the VMs. There was a slight lag on my computer that could be due to the fact that I have multiple programs currently running on my computer. The friendlier UI/UX I noticed from a GUI POV is the font and the coloring and sizing of the fonts and dashboard. From navigating both platforms they have their target audience in mind.
+- Exploring pricing for both Azue and GCP is relatively easy. For example, in the "Explore pricing options" the different plans (Pay as you go, Azure savings plan for compute, Reserved Instances, Spot) are laid out clearly.
 - It was not possible to see the total cost incur on the GCP, it might be due to the small run time or perhaps you have to wait until EOD or EOW to get the fees incured. Or perhaps there are other delays when calculating cost of service.
 - Please note that I was unable to create a VM on Azure (no option to select 'size'). 
 
